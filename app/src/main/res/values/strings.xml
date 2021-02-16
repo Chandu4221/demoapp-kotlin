@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DemoApp</string>
+    <string name="spalsh_screen_image_description">Taxi App</string>
 </resources>
